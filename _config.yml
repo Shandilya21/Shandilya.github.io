@@ -7,13 +7,13 @@ kramdown:
 gems:
   - jekyll-sitemap
 permalink: blogs/:title/
-title: Dhaval Kapil
-email: me@dhavalkapil.com
-description: Website of Dhaval Kapil, graduate student at Georgia Tech
-keywords: dhaval, kapil, vampire, gatech, iit, roorkee, sdslabs, security, developer, geek, programmer, pianist, github
+title: Arunav Shandilya
+email: arunavshandilya96@gmail.com
+description: Website of Arunav Shandilya
+keywords: arunav, shandilya, iiit, bhubaneswar,developer, geek, programmer,github
 baseurl: ""
-url: https://dhavalkapil.com
-name: Dhaval Kapil\'s blog
+url: https://shandilya21.github.io
+name: Arunav SHandilya\'s blog
 author:
-  name: Dhaval Kapil
-  email: me@dhavalkapil.com
+  name: Arunav Shandilya
+  email: arunavshandilya96@gmail.com
