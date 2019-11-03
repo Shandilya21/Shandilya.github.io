@@ -1,5 +1,5 @@
 highlighter: rouge
-markdown: kramdown
+# markdown: kramdown
 kramdown:
   input: GFM
   auto_ids: true
