@@ -17,19 +17,20 @@
   description:
     - Removing artifacts by introducing extra loss function "content-loss" from High resolution image.
     - Derived from latent features from discriminator for eliminating unwanted artifact.
-    - To remove artifacts from VGG pretrained network.
+    - Using Content loss & Adversial Loss helps to remove artifacts from VGG pretrained network.
   tech: Python, PyTorch, sklearn, VGG-16, GAN, SeqGAN
 
-- name: "luaver (Lua Version Manager)"
+- name: "Information Retrieval from Micro blogs during Disasters"
   github:
-    repo: "luaver"
-  url: "https://dhavalkapil.com/luaver/"
-  source_url: "https://github.com/dhavalkapil/luaver"
+    repo: ""
+  url: ""
+  source_url: "https://github.com/"
   description:
-    - Command line tool in shell similar to <a href="https://github.com/creationix/nvm">nvm</a> and <a href="https://rvm.io/">rvm</a>
-    - Manage and switch easily between different versions of Lua, LuaJIT and Luarocks
-    - Easily maintain a different environment in separate terminal sessions
-  tech: "POSIX compatible shell scripting, Lua"
+    - We present a system which analyses the emergency-related tweets to classify\
+      them as need and available tweets.
+    - Real-time analysis of this huge collected data can play a vital role in crisis assessment,\
+      response and relief activities.
+  tech: "Python, Keras, Scikit-learn, Apache Storm"
 
 - name: "Backdoor"
   url: "https://backdoor.sdslabs.co/"
