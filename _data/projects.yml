@@ -1,14 +1,14 @@
-- name: "icmptunnel"
+- name: "Predictive Model for Extractive Text Summarizations"
   github:
-    repo: "icmptunnel"
-  url: "https://dhavalkapil.com/icmptunnel/"
-  source_url: "https://github.com/dhavalkapil/icmptunnel"
+    repo: "SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM"
+  url: "https://shandilya21.github.io/SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM/"
+  source_url: "https://github.com/Shandilya21/SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM"
   description:
     - Tunnels IP traffic over ICMP - bypass firewalls and captive portals
     - Can be used to make an encrypted communication channel
     - Exploites RFC 792's allowance of ICMP packets of arbitrary data length
     - Covered by <a href="https://pentestmag.com/download/power-shell-for-penetration-testing/">PenTest Magazine</a>
-  tech: "Raw sockets in C, linux 'tun' driver, iptables, route"
+  tech: "Python, linux 'regex' Java (StanfordCoreNLP), gloVe, Sklearn"
 
 - name: "Heap Exploitation (a short book)"
   github:
