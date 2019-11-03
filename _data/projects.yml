@@ -12,7 +12,7 @@
 - name: "More to Perceptual in Super Resolution"
   github:
     repo: "Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
-#   url: "https://heap-exploitation.dhavalkapil.com/"
+  url: "https://shandilya21.github.io/Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
   source_url: "https://github.com/Shandilya21/Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
   description:
     - Removing artifacts by introducing extra loss function "content-loss" from High resolution image.
