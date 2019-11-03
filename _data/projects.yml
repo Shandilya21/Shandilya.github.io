@@ -1,8 +1,8 @@
 - name: "Predictive Model for Extractive Text Summarizations"
   github:
     repo: "SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM"
-  url: ""
-  source_url: "https://github.com/SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM"
+  url: "https://shandilya21.github.io/SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM"
+  source_url: "https://github.com/Shandilya21/SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM"
   description:
     - Extractive Summarizations - based on the sequence phrases on Google Open Domain Dataset. 
     - Abilities to convert long phrases into coherence and meaningful, using Dynamic RNN.
@@ -12,7 +12,7 @@
 - name: "More to Perceptual in Super Resolution"
   github:
     repo: "Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
-  url: "https://shandilya21.github.io/Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
+#   url: "https://shandilya21.github.io/Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
   source_url: "https://github.com/Shandilya21/Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
   description:
     - Removing artifacts in High Resolution Images.
