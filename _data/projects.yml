@@ -4,11 +4,10 @@
   url: "https://shandilya21.github.io/SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM/"
   source_url: "https://github.com/Shandilya21/SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM"
   description:
-    - Tunnels IP traffic over ICMP - bypass firewalls and captive portals
-    - Can be used to make an encrypted communication channel
-    - Exploites RFC 792's allowance of ICMP packets of arbitrary data length
-    - Covered by <a href="https://pentestmag.com/download/power-shell-for-penetration-testing/">PenTest Magazine</a>
-  tech: "Python, linux 'regex' Java (StanfordCoreNLP), gloVe, Sklearn"
+    - Extractive Summarizations - based on the sequence phrases 
+    - Abilities to convert long phrases into coherence and meaningful, using Dynamic RNN.
+    - Can be used for the making long summary news report into shorter & meaningful. 
+  tech: "Python, linux 'Keras' Java (StanfordCoreNLP), gloVe, Sklearn"
 
 - name: "Heap Exploitation (a short book)"
   github:
