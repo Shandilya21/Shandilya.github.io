@@ -16,7 +16,8 @@
   source_url: "https://github.com/Shandilya21/Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
   description:
     - Removing artifacts by introducing extra loss function "content-loss" from High resolution image.
-    - Derived from latent features from discriminator to avoid unwanted artifacts from VGG pretrained net.
+    - Derived from latent features from discriminator to avoid unwanted 
+      artifacts from VGG pretrained net.
   tech: Python, PyTorch, sklearn, VGG-16, GAN, SeqGAN
 
 - name: "luaver (Lua Version Manager)"
