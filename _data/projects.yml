@@ -4,21 +4,21 @@
   url: "https://shandilya21.github.io/SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM/"
   source_url: "https://github.com/Shandilya21/SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM"
   description:
-    - Extractive Summarizations - based on the sequence phrases 
+    - Extractive Summarizations - based on the sequence phrases on Google Open Domain Dataset. 
     - Abilities to convert long phrases into coherence and meaningful, using Dynamic RNN.
     - Can be used for the making long summary news report into shorter & meaningful. 
   tech: "Python, linux 'Keras' Java (StanfordCoreNLP), gloVe, Sklearn"
 
-- name: "Heap Exploitation (a short book)"
+- name: "More to Perceptual in Super Resolution"
   github:
-    repo: "heap-exploitation"
-  url: "https://heap-exploitation.dhavalkapil.com/"
-  source_url: "https://github.com/dhavalkapil/heap-exploitation"
+    repo: "Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
+#   url: "https://heap-exploitation.dhavalkapil.com/"
+  source_url: "https://github.com/Shandilya21/Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
   description:
-    - A short book on internals of glibc's memory allocation techniques and its exploitation
-    - An in depth analysis of glibc's source code, particularly <a href="http://repo.or.cz/glibc.git/blob/HEAD:/malloc/malloc.c">malloc.c</a>
-    - Listing of <b>all</b> security checks performed by glibc
-    - Demonstration of various attacks possible on glibc's heap
+    - Removing artifacts by introducing extra loss function "content-loss" from High resolution image.
+    - Derived from latent features from discriminator 
+    - Introduce Coverage in the disciminator network, to avoid unwanted artifacts from VGG pretrained net.
+  tech: Python, PyTorch, sklearn, VGG-16, GAN, SeqGAN
 
 - name: "luaver (Lua Version Manager)"
   github:
