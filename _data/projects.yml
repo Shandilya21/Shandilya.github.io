@@ -15,9 +15,9 @@
   url: "https://shandilya21.github.io/Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
   source_url: "https://github.com/Shandilya21/Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
   description:
-    - Removing artifacts by introducing extra loss function "content-loss" from High resolution image.
+    - Removing artifacts in High Resolution Images.
     - Derived from latent features from discriminator for eliminating unwanted artifact.
-    - Using Content loss & Adversial Loss helps to remove artifacts from VGG pretrained network.
+    - Using Content loss helps to remove artifacts from VGG pretrained network.
   tech: Python, PyTorch, sklearn, VGG-16, GAN, SeqGAN
 
 - name: "Information Retrieval from Micro blogs during Disasters"
