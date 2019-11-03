@@ -26,9 +26,9 @@
   url: ""
   source_url: "https://github.com/"
   description:
-    - We present a system which analyses the emergency-related tweets to classify\
+    - We present a system which analyses the emergency-related tweets to classify
       them as need and available tweets.
-    - Real-time analysis of this huge collected data can play a vital role in crisis assessment,\
+    - Real-time analysis of this huge collected data can play a vital role in crisis assessment,
       response and relief activities.
   tech: "Python, Keras, Scikit-learn, Apache Storm"
 
