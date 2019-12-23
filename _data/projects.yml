@@ -35,7 +35,7 @@
     - Extractive based Sentence Compression Using stacked LSTM. Study and Implemented LSTM Architecture 
       for Sentence Compression. Achieved accuracy of (79.25%) in 5_ words window and 73.48% in 3_words 
       window architecture models.
-    - Can be used for the making long summary news report into shorter & meaningful. 
+#     - Can be used for the making long summary news report into shorter & meaningful. 
 #   tech: "Python, linux 'Keras' Java (StanfordCoreNLP), gloVe, Sklearn"
         
 - name: "Information Retrieval from Micro blogs during Disasters"
