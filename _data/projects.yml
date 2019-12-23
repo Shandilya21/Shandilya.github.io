@@ -4,10 +4,11 @@
 #   url: "https://shandilya21.github.io/SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM"
 #   source_url: "https://github.com/Shandilya21/SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM"
   description:
+    - Supervisor- Prof. Asif Ekbal, Prof. Pushpak Bhattacharyya, Indian Institute of Technology, Patna
     - We propose a novel approach & techniques which helps for any goal-oriented conversational 
       agents, to improve their system responses that will be informative, diverse ,leading to better
       user experience.
-    - Submitted to **ACM Transaction of Knowledge Discovery from Data (ACM)**
+    - Submitted to ACM Transaction of Knowledge Discovery from Data (ACM)
 
 - name: "More to Perceptual in Super Resolution"
 #   github:
@@ -15,7 +16,8 @@
 #   url: "https://shandilya21.github.io/Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
 #   source_url: "https://github.com/Shandilya21/Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
   description:
-      - Authors: A. Ravi Tej, Shirsendu Halder, Arunav Shandeelya, Vinod Pankajakshan 
+      - Supervisor - Prof. Vinod Pankajakshan, Indian Institute of Technology, Roorkee, India
+      - A. Ravi Tej*, Shirsendu Halder, Arunav Shandeelya, Vinod Pankajakshan 
       - Introduced a novel loss formulation derived from GAN based network in which discriminator 
         network provides strong supervision to generator for erasing the artifacts generated from 
         pre-trained perceptual loss function.
@@ -23,11 +25,12 @@
         information introduced by the perceptual loss.
 
 - name: "Predictive Model for Extractive Text Summarizations"
-  github:
-    repo: "SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM"
-  url: "https://shandilya21.github.io/SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM"
-  source_url: "https://github.com/Shandilya21/SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM"
+#   github:
+#     repo: "SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM"
+#   url: "https://shandilya21.github.io/SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM"
+#   source_url: "https://github.com/Shandilya21/SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM"
   description:
+    - Supervisor- Prof. Rakesh Balabantaray, International Institute of Information Technology, Bhubaneswar
     - Extractive Summarizations - based on the sequence phrases on Google Open Domain Dataset. 
     - Extractive based Sentence Compression Using stacked LSTM. Study and Implemented LSTM Architecture 
       for Sentence Compression. Achieved accuracy of (79.25%) in 5_ words window and 73.48% in 3_words 
@@ -41,6 +44,7 @@
 #   url: ""
 #   source_url: "https://github.com/"
   description:
+    - Supervisor- Prof. Rakesh Balabantaray, International Institute of Information Technology, Bhubaneswar
     - We present a system which analyses the emergency-related tweets to classify
       them as need and available tweets.
     - Real-time analysis of this huge collected data can play a vital role in crisis assessment,
