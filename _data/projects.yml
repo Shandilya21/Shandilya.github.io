@@ -15,12 +15,13 @@
   github:
     repo: "Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
 #   url: "https://shandilya21.github.io/Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
-  source_url: "https://github.com/Shandilya21/Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
+#   source_url: "https://github.com/Shandilya21/Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
   description:
-    - Removing artifacts in High Resolution Images.
-    - Derived from latent features from discriminator for eliminating unwanted artifact.
-    - Using Content loss helps to remove artifacts from VGG pretrained network.
-  tech: Python, PyTorch, sklearn, VGG-16, GAN, SeqGAN
+      - Introduced a novel loss formulation derived from GAN based network in which discriminator 
+        network provides strong supervision to generator for erasing the artifacts generated from 
+        pre-trained perceptual loss function.
+      - Utilizing the latent features from the discriminator, we adaptively filter the unwanted 
+        information introduced by the perceptual loss.
 
 - name: "Information Retrieval from Micro blogs during Disasters"
   github:
@@ -35,33 +36,13 @@
     - Submitted in Journal of Sc. & Engg. Springer, Sadhaana.
   tech: "Python, Keras, Scikit-learn, Apache Storm"
 
-- name: "Backdoor"
-  url: "https://backdoor.sdslabs.co/"
-  description:
-    - Capture the Flag styled always online wargame with frequent computer security competitions
-    - Developed the entire backend of the website, see <a href="https://blog.sdslabs.co/2014/10/launching-backdoor">blog</a>
-    - Developed a secure sandboxed environment to run vulnerable challenges, see <a href="https://dhavalkapil.com/blogs/Combining-chroot-and-xinetd/">blog</a>
-    - Designed <a href="https://backdoor.sdslabs.co/users/vampire">25 challenges</a> ranging from web, binary and cryptography
-    - Hosted various international competitions and managed the server
-    - 5000+ registered users, >200 submissions every week
-  tech: "PHP(MVC), MySQL, Memcache, chroot, xinetd, system administration"
-
-# - name: "elasticsearch-lua"
-#   github:
-#     repo: "elasticsearch-lua"
-#   url: "https://luarocks.org/modules/dhavalkapil/elasticsearch"
-#   source_url: "https://github.com/dhavalkapil/elasticsearch-lua"
+# - name: "Backdoor"
+#   url: "https://backdoor.sdslabs.co/"
 #   description:
-#     - A low level client for Elasticsearch in Lua
-#     - Maintains multiple connections to Elasticsearch server using load balancing algorithms
-#     - 2000+ <a href="https://luarocks.org/modules/dhavalkapil/elasticsearch">downloads</a>
-#   tech: "Lua, HTTP, REST API, Elasticsearch, Unit Testing"
-
-
-# - name: "Falcon"
-#   url: "https://sdslabs.co/"
-#   description:
-#     - A central and secure OAuth 2.0 server for all applications by <a href="https://sdslabs.co/">SDSLabs</a>
-#     - OAuth tokens shared using the Client Credentials Grant
-#     - A custom session management system to maintain user state
-#   tech: "OAuth 2.0, PHP(MVC), MySQL, Redis"
+#     - Capture the Flag styled always online wargame with frequent computer security competitions
+#     - Developed the entire backend of the website, see <a href="https://blog.sdslabs.co/2014/10/launching-backdoor">blog</a>
+#     - Developed a secure sandboxed environment to run vulnerable challenges, see <a href="https://dhavalkapil.com/blogs/Combining-chroot-and-xinetd/">blog</a>
+#     - Designed <a href="https://backdoor.sdslabs.co/users/vampire">25 challenges</a> ranging from web, binary and cryptography
+#     - Hosted various international competitions and managed the server
+#     - 5000+ registered users, >200 submissions every week
+#   tech: "PHP(MVC), MySQL, Memcache, chroot, xinetd, system administration"
