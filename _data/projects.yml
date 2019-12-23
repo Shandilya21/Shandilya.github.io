@@ -1,3 +1,27 @@
+- name: "◦ Inducing Diversity in Task Oriented Multi-modal Dialogue Systems"
+#   github:
+#     repo: "SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM"
+#   url: "https://shandilya21.github.io/SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM"
+#   source_url: "https://github.com/Shandilya21/SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM"
+  description:
+    - We propose a novel approach & techniques which helps for any goal-oriented conversational 
+      agents, to improve their system responses that will be informative, diverse ,leading to better
+      user experience.
+    - Submitted to **ACM Transaction of Knowledge Discovery from Data (ACM)**
+
+- name: "More to Perceptual in Super Resolution"
+#   github:
+#     repo: "Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
+#   url: "https://shandilya21.github.io/Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
+#   source_url: "https://github.com/Shandilya21/Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
+  description:
+      - Authors: A. Ravi Tej, Shirsendu Halder, Arunav Shandeelya, Vinod Pankajakshan 
+      - Introduced a novel loss formulation derived from GAN based network in which discriminator 
+        network provides strong supervision to generator for erasing the artifacts generated from 
+        pre-trained perceptual loss function.
+      - Utilizing the latent features from the discriminator, we adaptively filter the unwanted 
+        information introduced by the perceptual loss.
+
 - name: "Predictive Model for Extractive Text Summarizations"
   github:
     repo: "SCN-Sentence-Compression-through-Deletion-using-Stacked-LSTM"
@@ -9,32 +33,20 @@
       for Sentence Compression. Achieved accuracy of (79.25%) in 5_ words window and 73.48% in 3_words 
       window architecture models.
     - Can be used for the making long summary news report into shorter & meaningful. 
-  tech: "Python, linux 'Keras' Java (StanfordCoreNLP), gloVe, Sklearn"
-
-- name: "More to Perceptual in Super Resolution"
-  github:
-    repo: "Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
-#   url: "https://shandilya21.github.io/Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
-#   source_url: "https://github.com/Shandilya21/Improved-Optimization-Techniques-for-Super-Resoultion-in-Images"
-  description:
-      - Introduced a novel loss formulation derived from GAN based network in which discriminator 
-        network provides strong supervision to generator for erasing the artifacts generated from 
-        pre-trained perceptual loss function.
-      - Utilizing the latent features from the discriminator, we adaptively filter the unwanted 
-        information introduced by the perceptual loss.
-
+#   tech: "Python, linux 'Keras' Java (StanfordCoreNLP), gloVe, Sklearn"
+        
 - name: "Information Retrieval from Micro blogs during Disasters"
-  github:
-    repo: ""
-  url: ""
-  source_url: "https://github.com/"
+#   github:
+#     repo: ""
+#   url: ""
+#   source_url: "https://github.com/"
   description:
     - We present a system which analyses the emergency-related tweets to classify
       them as need and available tweets.
     - Real-time analysis of this huge collected data can play a vital role in crisis assessment,
       response and relief activities.
-    - Submitted in Journal of Sc. & Engg. Springer, Sadhaana.
-  tech: "Python, Keras, Scikit-learn, Apache Storm"
+    - Submitted in **Journal of Information and Intelligent Systems**, Springer.
+#   tech: "Python, Keras, Scikit-learn, Apache Storm"
 
 # - name: "Backdoor"
 #   url: "https://backdoor.sdslabs.co/"
