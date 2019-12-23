@@ -7,13 +7,13 @@ kramdown:
 gems:
   - jekyll-sitemap
 permalink: blogs/:title/
-title: Arunav Shandilya
+title: Arunav Shandeelya
 email: arunavshandilya96@gmail.com
-description: Website of Arunav Shandilya
-keywords: arunav, shandilya, iiit, bhubaneswar,developer, geek, programmer,github
+description: Website of Arunav Shandeelya
+keywords: arunav, shandilya, iiit, bhubaneswar,developer, geek, programmer,github, ML, NLP
 baseurl: ""
 url: https://shandilya21.github.io
-name: Arunav Shandilya\'s blog
+name: Arunav Shandeelya\'s blog
 author:
   name: Arunav Shandilya
   email: arunavshandilya96@gmail.com
