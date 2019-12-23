@@ -49,7 +49,7 @@
       them as need and available tweets.
     - Real-time analysis of this huge collected data can play a vital role in crisis assessment,
       response and relief activities.
-    - Submitted in **Journal of Information and Intelligent Systems**, Springer.
+    - Submitted in Journal of Information and Intelligent Systems , Springer.
 #   tech: "Python, Keras, Scikit-learn, Apache Storm"
 
 # - name: "Backdoor"
