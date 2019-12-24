@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 permalink: /experiences/
 title: ""
 date: 2014-06-02T15:05:16-04:00
