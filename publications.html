@@ -2,14 +2,17 @@
 layout: page
 <!-- title: Experience -->
 ---
-{% if site.data.experiences %}
+{% if site.data.publications %}
   <!-- begin Experience -->
     <section class="content-section">
       <header class="section-header">
-          <h2>Experience</h2>
+          <h2>Publications</h2>
+      </header>
+      <header class="subsection-header">
+        <h4>Journals</h4>
       </header>
 
-   {% for job in site.data.experiences %}
+   {% for job in site.data.publications %}
    <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
        <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
        <h22 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
