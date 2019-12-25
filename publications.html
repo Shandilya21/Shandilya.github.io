@@ -1,0 +1,21 @@
+---
+layout: page
+<!-- title: Experience -->
+---
+{% if site.data.publications %}
+  <!-- begin Experience -->
+    <section class="content-section">
+      <header class="section-header">
+          <h2>Experience</h2>
+      </header>
+
+   {% for article in site.data.publication %}
+   <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+       <h3 class="resume-item-title" itemprop="name">{{ article.publish_venue }}</h3>
+       <h22 class="resume-item-details" itemprop="description">{{ article.author }}</h4>
+   </div><!-- end of resume-item -->
+   {% endfor %}
+
+   </section>
+   <!-- end Experience -->
+   {% endif %}
