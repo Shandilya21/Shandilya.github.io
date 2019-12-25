@@ -9,13 +9,13 @@ layout: page
           <h2>Publications</h2>
       </header>
       <header class="subsection-header">
-        <h4> Journal </h4>
+        <h4> Journals </h4>
 
    {% for article in site.data.publication %}
    <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
        <h3 class="resume-item-title" itemprop="name">{{ article.publish_venue }}</h3>
        <h22 class="resume-item-details" itemprop="description">{{ article.author }}</h4>
-     <p class = "resume-item-details" itemprop="Title">{{article.title }}</p>
+       <h20 class="resume-item-details" itemprop="title">{{ article.title }}</h4>
    </div><!-- end of resume-item -->
    {% endfor %}
 
