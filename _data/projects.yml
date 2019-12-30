@@ -23,6 +23,7 @@
         pre-trained perceptual loss function.
       - Utilizing the latent features from the discriminator, we adaptively filter the unwanted 
         information introduced by the perceptual loss.
+      - Submitted to IEEE Joint Conference on Neural Networks, Glasgow, United Kingdom
 
 - name: "Predictive Model for Extractive Text Summarizations"
 #   github:
