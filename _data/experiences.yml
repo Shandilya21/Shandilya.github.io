@@ -1,14 +1,14 @@
 # Jobs
 # Remote Collaboration
-# - company: University of Amsterdam, AMLAB
-#   position: Remote Collaboration, Prof. Max Welling, Wouter Kool
-#   duration: Dec, 2019 &mdash; Present
-#   summary:  Study Estimating Gradient for Discrete Random Variable without replacement
+- company: University of Amsterdam, AMLAB
+  position: Remote Collaboration
+  duration: Dec, 2019 &mdash; Present
+  summary:  Studying Estimating Gradient for Discrete Random Variable without replacement and methods such as Rao- Blackwellization, Neymar Fisher Factorization Theorems for Sufficeient statistics in Rao Blackwellized defined unibiased estimator for estimating gradients.
   
 - company: Indian Institute of Technology, Patna, AI-NLP-ML Lab
   position: Research Assistant, Prof. Asif Ekbal, Prof. Pushpak Bhattacharyya
   duration: Jan, 2019 &mdash; Dec, 2019
-  summary: Working on Multimodal Deep Learning i.e., Intersection of Natural Language and Computer Vision reconcile for NLG task.
+  summary: Working on Multimodal Deep Learning i.e., Intersection of Natural Language and Computer Vision reconcile for NLG task. Inducing policy gradient methods in multi-modal semantics for enriching, diverse sets of generation.
 
 - company: Indian Institute of Technology, Roorkee, India
   position: Remote Collaboration, Prof. Vinod Pankajakshan  
