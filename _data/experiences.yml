@@ -1,9 +1,9 @@
 # Jobs
 # Remote Collaboration
-- company: The University of Amsterdam, AMLAB
-  position: Remote Collaboration
-  duration: Dec, 2019 &mdash; Present
-  summary:   Study and implemented an unbiased estimator for estimating gradients in low entropy setting for avoiding duplicates samples in generative modelling. the resultant unbiased policy gradient estimator is the sum over two Rao-Blackwellized unbiased estimators with REINFORCE along with control in variate for variance reduction. 
+# - company: The University of Amsterdam, AMLAB
+#   position: Remote Collaboration
+#   duration: Dec, 2019 &mdash; Present
+#   summary:   Study and implemented an unbiased estimator for estimating gradients in low entropy setting for avoiding duplicates samples in generative modelling. the resultant unbiased policy gradient estimator is the sum over two Rao-Blackwellized unbiased estimators with REINFORCE along with control in variate for variance reduction. 
   
 - company: Indian Institute of Technology, Patna, AI-NLP-ML Lab
   position: Research Assistant, Prof. Asif Ekbal, Prof. Pushpak Bhattacharyya
